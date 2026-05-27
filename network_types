@@ -1,0 +1,5 @@
+Network contains three catogeries of components:
+  1) End to End devices -- smartphone,tablet,printer,camera etc etc.
+  2) intermediate devices -- wireless router, wired router, firewall, multilayer switch etc etc.
+  3) Network media -- LAN( large area network) , WAN( wired area network) , Wireless network.
+ISP( internet service provider) --- which provides internet to network of devices connected to it.
